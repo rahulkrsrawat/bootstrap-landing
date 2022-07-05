@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav{
+    color: blanchedalmond;
+}
+
+.header1 {
+    text-transform: capitalize;
+}
+
+.header2 img{
+height: 30rem;
+width: 35rem;
+}
+
+.foot {
+    font-size: larger;
+    font-weight: bolder;
+}
